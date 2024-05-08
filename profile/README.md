@@ -5,7 +5,7 @@ Model components are available as registered packages in the Julia programming l
 process models or coupled (exo)Earth system models.
 
 ## Where to start
-Tutorials and examples are in the [PALEOtutorials](https://github.com/PALEOtoolkit/PALEOtutorials.jl) repository.
+Installation instructions, tutorials and examples are available in the [PALEOtutorials](https://github.com/PALEOtoolkit/PALEOtutorials.jl) repository.
 
 ## Components and model configurations
 - [PALEOcopse](https://github.com/PALEOtoolkit/PALEOcopse.jl) (the COPSE biogeochemical model)
